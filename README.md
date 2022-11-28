@@ -1,20 +1,12 @@
 # netSalaryCalculator-Toy
 
-AUTHOR: PAULINE NJUGUNA
+# AUTHOR: PAULINE NJUGUNA
 
-PROJECT TITLE: Net Salary Calculator (Toy Problem)
+# PROJECT TITLE: Net Salary Calculator (Toy Problem)
 ____________________________________________________________________________
 
 
-
-
-LEARNING GOALS
-
-Learn how to create a form in HTML
-
-Demonstrate if else function
-
-INTRODUCTION
+# PROJECT INSTRUCTIONS
 
 Given the basic salary and benefits of an employee, write a program that would calculate the Payee Tax, NHIF, NSSF Deductions and net salary.
 NB: Use KRA, NHIF, and NSSF values provided in the link below.
@@ -24,17 +16,42 @@ Links to an external site.
   
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
-STEPS:
+# PROJECT DESCRIPTION
 
-Create a HTML file
+This project was developed to help calculate an employee/employer's net salary after the PAYE tax stages i.e
 
-Link your css to the html file
+1. Tax deduction
+2. NHIF deduction
+3. NSSF deduction
 
-<link ref="stylesheet" href="./style.css">
+This helps the employee/employer's know what amount they get to have so as to have better financial plan.
 
-Link your js file to the HTML file
+# HOW TO INSTALL AND RUN THE PROJECT
 
-<link src="./index.js">
+Git clone the repo into you local folder
+
+Open the folder in your VisualStudio
+
+Run npm install
+
+Run npm test to read through the code
+
+Make neccessary changes to the files and run the below guides to update your local repository
+
+    git add .
+
+    git commit -m ""
+
+    git push 
+    
+# LICENSE
+ 
+MIT License
+
+
+
+ 
+ 
  
  
  
